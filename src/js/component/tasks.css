@@ -1,0 +1,4 @@
+
+.closeBtn:hover .btnClose::after {
+    content: '\00d7';
+}
